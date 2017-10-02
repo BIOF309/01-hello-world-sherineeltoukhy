@@ -1,1 +1,10 @@
 Print ("Hello World")
+Print ("I like this song")
+Print ("Who wrote this song?")
+Pint ("Tom Douglas")
+Print ("When was it released?")
+Print (2010)
+Print ("Do you think I will like this song?")
+Print ("Watch it yourself")
+import webbrowser
+webbrowser.open ("https://www.youtube.com/watch?v=al2DFQEZl4M")
